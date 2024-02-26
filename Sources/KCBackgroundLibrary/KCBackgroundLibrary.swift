@@ -1,8 +1,7 @@
 import Firebase
 import FirebaseAuth
 
-public struct KCBackgroundLibrary {
-    public private(set) var text = "Hello, World!"
+public class KCBackgroundLibrary {
 
     public init() {
     }
