@@ -7,6 +7,6 @@ public class KCBackgroundLibrary {
     }
     
     public func createAccount() async throws {
-        try await Auth.auth().createUser(withEmail: "test.test@gmail.com", password: "somePassword")
+        try await Auth.auth().createUser(withEmail: "test@gmail.com", password: "somePassword123!$%")
     }
 }
