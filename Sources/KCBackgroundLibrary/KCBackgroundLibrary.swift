@@ -7,7 +7,7 @@ public class KCBackgroundLibrary {
     }
     
     public static func configure() {
-        // Configure
+        // configure
         FirebaseApp.configure()
     }
     
