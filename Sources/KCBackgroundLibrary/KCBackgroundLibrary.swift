@@ -1,4 +1,4 @@
-import Firebase
+import FirebaseCore
 import FirebaseAuth
 
 public class KCBackgroundLibrary {
